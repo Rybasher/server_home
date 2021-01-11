@@ -5680,6 +5680,10 @@ header.show {
     padding: 30px;
   }
 
+  .section__banner {
+    padding: 110px 0px;
+  }
+
   .section__spec {
     padding: 50px 30px 50px 30px;
   }
@@ -6228,6 +6232,10 @@ header.show {
 
   .section__creating .container__creating .container__footer .years .cont {
     width: 55%;
+  }
+
+  .section__banner {
+    padding: 80px 0px;
   }
 
   .section__spec .container__spec .spec__body .spec__img {
